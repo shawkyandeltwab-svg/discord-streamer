@@ -37,7 +37,7 @@ Only if the install later fails on node-av, also add the build tools:
 
 ## 3. Install
 
-    git clone https://github.com/shawkyandeltwab-svg/YOUR_REPO_NAME.git
+    git clone https://github.com/shawkyandeltwab-svg/discord-streamer.git
     cd discord-streamer
     bash setup.sh
 
